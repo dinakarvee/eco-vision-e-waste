@@ -9,7 +9,8 @@ Original file is located at
 # **AI-Based E-Waste Identification Using Camera Input**
 
 Module: M516 – Business Project in Big Data & AI  
-Student Name: Dinakar Vennalakanti
+Student Name: Dinakar Vennalakanti and Sai Pavan Kalyan Amalanadhuni
+Student ID: GH1038092 and GH1034980 
 Date: 18th December 2025
 
 ## **Notebook 01: Problem and Data Understanding**
